@@ -1,0 +1,699 @@
+
+										
+	
+OFFICE OF THE REGISTRAR	
+CHULALONGKORN UNIVERSITY
+STUDENT GRADE REPORT	
+ณ วันที่  19 กุมภาพันธ์ 2564	
+					
+CR60
+
+Print All Grade Report
+		
+คณะวิศวกรรมศาสตร์
+
+MAJOR CODE 21031
+
+ชื่อ-นามสกุล นายกฤษณ์ สุวรรณวัฒน์
+
+ 
+ภาคการศึกษาต้น    ปีการศึกษา 2560    เลขประจำตัวนิสิต  603 00253 21
+
+	
+COURSE NO
+
+COURSE TITLE
+
+CREDIT
+
+GRADE
+
+2103106
+
+ ENG DRAWING
+
+3.0
+
+    D+ 
+
+2301107
+
+ CALCULUS I
+
+3.0
+
+    C+ 
+
+2302127
+
+ GEN CHEM
+
+3.0
+
+    C 
+
+2302163
+
+ GEN CHEM LAB
+
+1.0
+
+    B+ 
+
+2304103
+
+ GEN PHYS I
+
+3.0
+
+    D+ 
+
+2304183
+
+ GEN PHYS LAB I
+
+1.0
+
+    B 
+
+5500111
+
+ EXP ENG I
+
+3.0
+
+    C+ 
+
+	
+CA
+17.0
+
+CG
+17.0
+
+GPA
+2.15
+
+CAX
+17.0
+
+CGX
+17.0
+
+GPAX
+2.15
+
+GPX
+36.50
+
+ 
+ภาคการศึกษาปลาย    ปีการศึกษา 2560    เลขประจำตัวนิสิต  603 00253 21
+
+	
+COURSE NO
+
+COURSE TITLE
+
+CREDIT
+
+GRADE
+
+2100111
+
+ EXPL ENG WORLD
+
+3.0
+
+    A 
+
+2109101
+
+ ENG MATERIALS
+
+3.0
+
+    D+ 
+
+2110101
+
+ COMP PROG
+
+3.0
+
+    D 
+
+2301108
+
+ CALCULUS II
+
+3.0
+
+    C+ 
+
+2304104
+
+ GEN PHYS II
+
+3.0
+
+    D 
+
+2304184
+
+ GEN PHYS LAB II
+
+1.0
+
+    C 
+
+2308354
+
+ STRATEGY OF LIFE
+
+3.0
+
+    B+ 
+
+5500112
+
+ EXP ENG II
+
+3.0
+
+    C+ 
+
+	
+CA
+22.0
+
+CG
+22.0
+
+GPA
+2.27
+
+CAX
+39.0
+
+CGX
+39.0
+
+GPAX
+2.22
+
+GPX
+86.50
+
+ 
+ภาคการศึกษาต้น    ปีการศึกษา 2561    เลขประจำตัวนิสิต  603 00253 21
+
+	
+COURSE NO
+
+COURSE TITLE
+
+CREDIT
+
+GRADE
+
+2103211
+
+ STATICS
+
+3.0
+
+    D+ 
+
+2103241
+
+ THERMODYNAMICS I
+
+3.0
+
+    D 
+
+2301215
+
+ MULTIVAR CALCULUS
+
+3.0
+
+    D+ 
+
+2301216
+
+ LIN ALG DIFF EQ
+
+3.0
+
+    D 
+
+2502390
+
+ INTRO PACK DESIGN
+
+3.0
+
+    B 
+
+2603284
+
+ STAT PHYS SCIENCE
+
+3.0
+
+    D+ 
+
+3401124
+
+ INTRO IP LAW
+
+3.0
+
+    C+ 
+
+	
+CA
+21.0
+
+CG
+21.0
+
+GPA
+1.71
+
+CAX
+60.0
+
+CGX
+60.0
+
+GPAX
+2.04
+
+GPX
+122.50
+
+ 
+ภาคการศึกษาปลาย    ปีการศึกษา 2561    เลขประจำตัวนิสิต  603 00253 21
+
+	
+COURSE NO
+
+COURSE TITLE
+
+CREDIT
+
+GRADE
+
+2103212
+
+ DYNAMICS
+
+3.0
+
+    D 
+
+2103231
+
+ MECH OF MAT I
+
+3.0
+
+    F 
+
+2103351
+
+ FLUID MECHANICS I
+
+3.0
+
+    F 
+
+2103481
+
+ AUTOMOTIVE ENG
+
+4.0
+
+    C 
+
+2104257
+
+ MFR PROC
+
+3.0
+
+    F 
+
+2104258
+
+ MFR PROC LAB
+
+1.0
+
+    A 
+
+2313213
+
+ DIGITAL PHOTO
+
+3.0
+
+    A 
+
+	
+CA
+20.0
+
+CG
+11.0
+
+GPA
+1.35
+
+CAX
+80.0
+
+CGX
+71.0
+
+GPAX
+1.87
+
+GPX
+149.50
+
+วิทยาทัณฑ์ 1
+
+ 
+ภาคการศึกษาต้น    ปีการศึกษา 2562    เลขประจำตัวนิสิต  603 00253 21
+
+	
+COURSE NO
+
+COURSE TITLE
+
+CREDIT
+
+GRADE
+
+2100311
+
+ ENG ESSENTIALS
+
+3.0
+
+    B+ 
+
+2103322
+
+ MECH MACHINERY
+
+3.0
+
+    C 
+
+2103382
+
+ MECH VEHICLES I
+
+3.0
+
+    W 
+
+2103408
+
+ AUTOMOTIVE CONTROL
+
+3.0
+
+    B+ 
+
+2103463
+
+ HEAT TRANSFER
+
+3.0
+
+    W 
+
+2200330
+
+ TIPITAKA/LIFE
+
+3.0
+
+    W 
+
+	
+CA
+9.0
+
+CG
+9.0
+
+GPA
+3.00
+
+CAX
+89.0
+
+CGX
+80.0
+
+GPAX
+1.98
+
+GPX
+176.50
+
+วิทยาทัณฑ์ 2
+
+ 
+ภาคการศึกษาปลาย    ปีการศึกษา 2562    เลขประจำตัวนิสิต  603 00253 21
+
+	
+COURSE NO
+
+COURSE TITLE
+
+CREDIT
+
+GRADE
+
+0201211
+
+ MEDITAT LIFE DEV
+
+3.0
+
+    A 
+
+2102391
+
+ ELEC ENG I
+
+3.0
+
+    C 
+
+2102392
+
+ ELEC ENG LAB I
+
+1.0
+
+    B+ 
+
+2103231
+
+ MECH OF MAT I
+
+3.0
+
+    B 
+
+2103351
+
+ FLUID MECHANICS I
+
+3.0
+
+    D+ 
+
+2103393
+
+ ME LAB NON ME
+
+1.0
+
+    C 
+
+2103433
+
+ INTRO MECH VIBRAT
+
+3.0
+
+    D 
+
+2103471
+
+ INTER COMB ENGIN
+
+3.0
+
+    C 
+
+2103482
+
+ MECH VEHICLES II
+
+3.0
+
+    D+ 
+
+	
+CA
+23.0
+
+CG
+23.0
+
+GPA
+2.20
+
+CAX
+112.0
+
+CGX
+103.0
+
+GPAX
+2.03
+
+GPX
+227.00
+
+ 
+ภาคการศึกษาต้น    ปีการศึกษา 2563    เลขประจำตัวนิสิต  603 00253 21
+
+	
+COURSE NO
+
+COURSE TITLE
+
+CREDIT
+
+GRADE
+
+2103320
+
+ DES MECH ELEM
+
+3.0
+
+    B 
+
+2103335
+
+ VEH STRUC ANAL I
+
+3.0
+
+    D 
+
+2103382
+
+ MECH VEHICLES I
+
+3.0
+
+    D+ 
+
+2103461
+
+ AE EXP LAB
+
+2.0
+
+    C 
+
+2103463
+
+ HEAT TRANSFER
+
+3.0
+
+    D 
+
+2103489
+
+ ME PRE PROJECT
+
+1.0
+
+    A 
+
+2103555
+
+ ENGINE EMIS & CONT
+
+3.0
+
+    D 
+
+5500208
+
+ COM PRES SKIL
+
+3.0
+
+    B 
+
+	
+CA
+21.0
+
+CG
+21.0
+
+GPA
+1.88
+
+CAX
+133.0
+
+CGX
+124.0
+
+GPAX
+2.00
+
+GPX
+266.50
+
+ 
+
+				
+CA   = CREDIT ATTEMPTED
+
+CG   = CREDIT GRANTED
+
+GPA = GRADE POINT AVERAGE
+
+ 
+
+			
+CAX   = CUMULATIVE CA
+
+CGX   = CUMULATIVE CG
+
+GPAX = CUMULATIVE GPA
+
+	
+GPX = CUMULATIVE GP
+
+ 
+ 
