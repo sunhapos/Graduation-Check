@@ -576,7 +576,7 @@ def show_data():  # and write to file too
 
             myprint('\t' + C['ID'] + ' ' + "{:<22}".format(C['Name']) + '' + str(C['Credit']) +
                     '\t' + passed + '\t' + Mark + '\t' + "cur-sem = {:>2}".format(str(C['Sem'])) +
-                    '\tpre=' + pre + '\tcp=' + co)
+                    '\tpre=' + pre + '\tco=' + co)
         myprint('')
 
     # show electives
