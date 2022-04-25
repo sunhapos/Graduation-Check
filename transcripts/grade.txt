@@ -4,7 +4,7 @@
 OFFICE OF THE REGISTRAR	
 CHULALONGKORN UNIVERSITY
 STUDENT GRADE REPORT	
-ณ วันที่  2 สิงหาคม 2564	
+ณ วันที่  21 เมษายน 2565	
 					
 CR60
 
@@ -14,100 +14,10 @@ Print All Grade Report
 
 MAJOR CODE 21031
 
-ชื่อ-นามสกุล นายภูรินทร์ วุฒิไกรอุดมเดช
+ชื่อ-นามสกุล นายกรณ์ดนัย หอมสุดชา
 
  
-ภาคการศึกษาต้น    ปีการศึกษา 2560    เลขประจำตัวนิสิต  603 04664 21
-
-	
-COURSE NO
-
-COURSE TITLE
-
-CREDIT
-
-GRADE
-
-2100111
-
- EXPL ENG WORLD
-
-3.0
-
-    C+ 
-
-2109101
-
- ENG MATERIALS
-
-3.0
-
-    C+ 
-
-2110101
-
- COMP PROG
-
-3.0
-
-    F 
-
-2301107
-
- CALCULUS I
-
-3.0
-
-    C 
-
-2304103
-
- GEN PHYS I
-
-3.0
-
-    D+ 
-
-2304183
-
- GEN PHYS LAB I
-
-1.0
-
-    B 
-
-5500111
-
- EXP ENG I
-
-3.0
-
-    C+ 
-
-	
-CA
-19.0
-
-CG
-16.0
-
-GPA
-1.89
-
-CAX
-19.0
-
-CGX
-16.0
-
-GPAX
-1.89
-
-GPX
-36.00
-
- 
-ภาคการศึกษาปลาย    ปีการศึกษา 2560    เลขประจำตัวนิสิต  603 04664 21
+ภาคการศึกษาต้น    ปีการศึกษา 2561    เลขประจำตัวนิสิต  613 00042 21
 
 	
 COURSE NO
@@ -124,7 +34,113 @@ GRADE
 
 3.0
 
+    A 
+
+2109101
+
+ ENG MATERIALS
+
+3.0
+
+    B 
+
+2301107
+
+ CALCULUS I
+
+3.0
+
     C+ 
+
+2302127
+
+ GEN CHEM
+
+3.0
+
+    C 
+
+2302163
+
+ GEN CHEM LAB
+
+1.0
+
+    B+ 
+
+2304103
+
+ GEN PHYS I
+
+3.0
+
+    C 
+
+2304183
+
+ GEN PHYS LAB I
+
+1.0
+
+    A 
+
+5500111
+
+ EXP ENG I
+
+3.0
+
+    B+ 
+
+	
+CA
+20.0
+
+CG
+20.0
+
+GPA
+2.93
+
+CAX
+20.0
+
+CGX
+20.0
+
+GPAX
+2.93
+
+GPX
+58.50
+
+ 
+ภาคการศึกษาปลาย    ปีการศึกษา 2561    เลขประจำตัวนิสิต  613 00042 21
+
+	
+COURSE NO
+
+COURSE TITLE
+
+CREDIT
+
+GRADE
+
+2100111
+
+ EXPL ENG WORLD
+
+3.0
+
+    A 
+
+2110101
+
+ COMP PROG
+
+3.0
+
+    D 
 
 2301108
 
@@ -134,29 +150,13 @@ GRADE
 
     C 
 
-2302127
-
- GEN CHEM
-
-3.0
-
-    C+ 
-
-2302163
-
- GEN CHEM LAB
-
-1.0
-
-    B 
-
 2304104
 
  GEN PHYS II
 
 3.0
 
-    C 
+    D 
 
 2304184
 
@@ -164,7 +164,23 @@ GRADE
 
 1.0
 
-    B 
+    B+ 
+
+2308354
+
+ STRATEGY OF LIFE
+
+3.0
+
+    A 
+
+3742102
+
+ EXERCISE THERAPY
+
+3.0
+
+    A 
 
 5500112
 
@@ -172,32 +188,32 @@ GRADE
 
 3.0
 
-    C 
+    B 
 
 	
 CA
-17.0
+22.0
 
 CG
-17.0
+22.0
 
 GPA
-2.29
+2.75
 
 CAX
-36.0
+42.0
 
 CGX
-33.0
+42.0
 
 GPAX
-2.08
+2.83
 
 GPX
-75.00
+119.00
 
  
-ภาคการศึกษาต้น    ปีการศึกษา 2561    เลขประจำตัวนิสิต  603 04664 21
+ภาคฤดูร้อน    ปีการศึกษา 2561    เลขประจำตัวนิสิต  613 00042 21
 
 	
 COURSE NO
@@ -208,206 +224,26 @@ CREDIT
 
 GRADE
 
-2103211
+3303191
 
- STATICS
-
-3.0
-
-    F 
-
-2103241
-
- THERMODYNAMICS I
+ CHEM DRUG DAILY
 
 3.0
 
-    D 
+    A 
 
-2110101
+3404117
 
- COMP PROG
-
-3.0
-
-    B+ 
-
-2301215
-
- MULTIVAR CALCULUS
-
-3.0
-
-    C 
-
-2301216
-
- LIN ALG DIFF EQ
+ INTRO TO LAW
 
 3.0
 
     W 
 
-2313213
-
- DIGITAL PHOTO
-
-3.0
-
-    B+ 
-
-2603284
-
- STAT PHYS SCIENCE
-
-3.0
-
-    C 
-
-	
-CA
-18.0
-
-CG
-15.0
-
-GPA
-2.00
-
-CAX
-54.0
-
-CGX
-48.0
-
-GPAX
-2.06
-
-GPX
-111.00
-
- 
-ภาคการศึกษาปลาย    ปีการศึกษา 2561    เลขประจำตัวนิสิต  603 04664 21
-
-	
-COURSE NO
-
-COURSE TITLE
-
-CREDIT
-
-GRADE
-
-2103212
-
- DYNAMICS
-
-3.0
-
-    D+ 
-
-2103231
-
- MECH OF MAT I
-
-3.0
-
-    D+ 
-
-2103351
-
- FLUID MECHANICS I
-
-3.0
-
-    W 
-
-2103481
-
- AUTOMOTIVE ENG
-
-4.0
-
-    A 
-
-2104257
-
- MFR PROC
-
-3.0
-
-    F 
-
-2104258
-
- MFR PROC LAB
-
-1.0
-
-    A 
-
-2312100
-
- MICROB FRIEND FOE
-
-3.0
-
-    A 
-
-	
-CA
-17.0
-
-CG
-14.0
-
-GPA
-2.41
-
-CAX
-71.0
-
-CGX
-62.0
-
-GPAX
-2.14
-
-GPX
-152.00
-
- 
-ภาคฤดูร้อน    ปีการศึกษา 2561    เลขประจำตัวนิสิต  603 04664 21
-
-	
-COURSE NO
-
-COURSE TITLE
-
-CREDIT
-
-GRADE
-
-0201105
-
- CU SMART BUD GRAD
-
-3.0
-
-    A 
-
-0201285
-
- ECON SOC PLANT
-
-3.0
-
-    A 
-
 	
  
  
-ภาคการศึกษาต้น    ปีการศึกษา 2562    เลขประจำตัวนิสิต  603 04664 21
+ภาคการศึกษาต้น    ปีการศึกษา 2562    เลขประจำตัวนิสิต  613 00042 21
 
 	
 COURSE NO
@@ -426,6 +262,170 @@ GRADE
 
     A 
 
+2103211
+
+ STATICS
+
+3.0
+
+    C 
+
+2103242
+
+ THERMODYNAMICS
+
+4.0
+
+    W 
+
+2103481
+
+ AUTOMOTIVE ENG
+
+4.0
+
+    A 
+
+2111330
+
+ MOD MAT PROP RAD
+
+3.0
+
+    A 
+
+2301215
+
+ MULTIVAR CALCULUS
+
+3.0
+
+    W 
+
+	
+CA
+13.0
+
+CG
+13.0
+
+GPA
+3.54
+
+CAX
+58.0
+
+CGX
+58.0
+
+GPAX
+3.05
+
+GPX
+177.00
+
+ 
+ภาคการศึกษาปลาย    ปีการศึกษา 2562    เลขประจำตัวนิสิต  613 00042 21
+
+	
+COURSE NO
+
+COURSE TITLE
+
+CREDIT
+
+GRADE
+
+2103212
+
+ DYNAMICS
+
+3.0
+
+    D+ 
+
+2103232
+
+ MECH OF MAT
+
+3.0
+
+    D+ 
+
+2104253
+
+ ENG STAT I
+
+3.0
+
+    B+ 
+
+2104257
+
+ MFR PROC
+
+3.0
+
+    B 
+
+2104258
+
+ MFR PROC LAB
+
+1.0
+
+    A 
+
+2301216
+
+ LIN ALG DIFF EQ
+
+3.0
+
+    W 
+
+5100101
+
+ POP/DEV
+
+3.0
+
+    A 
+
+	
+CA
+16.0
+
+CG
+16.0
+
+GPA
+2.78
+
+CAX
+74.0
+
+CGX
+74.0
+
+GPAX
+2.99
+
+GPX
+221.50
+
+ 
+ภาคการศึกษาต้น    ปีการศึกษา 2563    เลขประจำตัวนิสิต  613 00042 21
+
+	
+COURSE NO
+
+COURSE TITLE
+
+CREDIT
+
+GRADE
+
 2100311
 
  ENG ESSENTIALS
@@ -434,9 +434,17 @@ GRADE
 
     A 
 
-2103211
+2103242
 
- STATICS
+ THERMODYNAMICS
+
+4.0
+
+    C+ 
+
+2103320
+
+ DES MECH ELEM
 
 3.0
 
@@ -448,7 +456,7 @@ GRADE
 
 3.0
 
-    D 
+    W 
 
 2103335
 
@@ -456,7 +464,15 @@ GRADE
 
 3.0
 
-    C+ 
+    C 
+
+2103382
+
+ MECH VEHICLES I
+
+3.0
+
+    B 
 
 2103408
 
@@ -464,40 +480,32 @@ GRADE
 
 3.0
 
-    D+ 
-
-2103463
-
- HEAT TRANSFER
-
-3.0
-
-    W 
+    C 
 
 	
 CA
-18.0
+19.0
 
 CG
-18.0
+19.0
 
 GPA
-2.50
+2.58
 
 CAX
-95.0
+93.0
 
 CGX
-86.0
+93.0
 
 GPAX
-2.33
+2.91
 
 GPX
-221.00
+270.50
 
  
-ภาคการศึกษาปลาย    ปีการศึกษา 2562    เลขประจำตัวนิสิต  603 04664 21
+ภาคการศึกษาปลาย    ปีการศึกษา 2563    เลขประจำตัวนิสิต  613 00042 21
 
 	
 COURSE NO
@@ -514,7 +522,7 @@ GRADE
 
 3.0
 
-    B 
+    W 
 
 2102392
 
@@ -522,15 +530,7 @@ GRADE
 
 1.0
 
-    B+ 
-
-2103320
-
- DES MECH ELEM
-
-3.0
-
-    C+ 
+    W 
 
 2103351
 
@@ -538,7 +538,7 @@ GRADE
 
 3.0
 
-    D+ 
+    C 
 
 2103393
 
@@ -546,15 +546,7 @@ GRADE
 
 1.0
 
-    B 
-
-2103433
-
- INTRO MECH VIBRAT
-
-3.0
-
-    W 
+    C+ 
 
 2103471
 
@@ -562,7 +554,7 @@ GRADE
 
 3.0
 
-    C+ 
+    W 
 
 2103482
 
@@ -570,7 +562,15 @@ GRADE
 
 3.0
 
-    D+ 
+    W 
+
+2301216
+
+ LIN ALG DIFF EQ
+
+3.0
+
+    C 
 
 5500208
 
@@ -578,32 +578,32 @@ GRADE
 
 3.0
 
-    B 
+    C+ 
 
 	
 CA
-20.0
+10.0
 
 CG
-20.0
+10.0
 
 GPA
-2.43
+2.20
 
 CAX
-115.0
+103.0
 
 CGX
-106.0
+103.0
 
 GPAX
-2.34
+2.84
 
 GPX
-269.50
+292.50
 
  
-ภาคการศึกษาต้น    ปีการศึกษา 2563    เลขประจำตัวนิสิต  603 04664 21
+ภาคฤดูร้อน    ปีการศึกษา 2563    เลขประจำตัวนิสิต  613 00042 21
 
 	
 COURSE NO
@@ -622,9 +622,31 @@ GRADE
 
     S 
 
-2103382
+	
+ 
+ 
+ภาคการศึกษาต้น    ปีการศึกษา 2564    เลขประจำตัวนิสิต  613 00042 21
 
- MECH VEHICLES I
+	
+COURSE NO
+
+COURSE TITLE
+
+CREDIT
+
+GRADE
+
+2103322
+
+ MECH MACHINERY
+
+3.0
+
+    C 
+
+2103381
+
+ SYS ANAL EV
 
 3.0
 
@@ -636,7 +658,15 @@ GRADE
 
 2.0
 
-    C+ 
+    B 
+
+2103463
+
+ HEAT TRANSFER
+
+3.0
+
+    D+ 
 
 2103479
 
@@ -645,14 +675,6 @@ GRADE
 3.0
 
     A 
-
-2103483
-
- AUTOMOTIVE SYS DES
-
-3.0
-
-    C 
 
 2103489
 
@@ -668,135 +690,11 @@ GRADE
 
 3.0
 
-    C+ 
+    B+ 
 
-3401102
+2301215
 
- TAX LAW DLY LIFE
-
-3.0
-
-    A 
-
-	
-CA
-18.0
-
-CG
-20.0
-
-GPA
-3.17
-
-CAX
-133.0
-
-CGX
-126.0
-
-GPAX
-2.45
-
-GPX
-326.50
-
- 
-ภาคการศึกษาปลาย    ปีการศึกษา 2563    เลขประจำตัวนิสิต  603 04664 21
-
-	
-COURSE NO
-
-COURSE TITLE
-
-CREDIT
-
-GRADE
-
-2100499
-
- SENIOR PROJECT
-
-3.0
-
-    A 
-
-2103433
-
- INTRO MECH VIBRAT
-
-3.0
-
-    D+ 
-
-2103541
-
- VIBRAT MONI ANAL
-
-3.0
-
-    D+ 
-
-2104257
-
- MFR PROC
-
-3.0
-
-    A 
-
-2301216
-
- LIN ALG DIFF EQ
-
-3.0
-
-    C+ 
-
-5500308
-
- TECH WRIT ENG
-
-3.0
-
-    C+ 
-
-	
-CA
-18.0
-
-CG
-18.0
-
-GPA
-2.67
-
-CAX
-151.0
-
-CGX
-144.0
-
-GPAX
-2.48
-
-GPX
-374.50
-
- 
-ภาคฤดูร้อน    ปีการศึกษา 2563    เลขประจำตัวนิสิต  603 04664 21
-
-	
-COURSE NO
-
-COURSE TITLE
-
-CREDIT
-
-GRADE
-
-2103463
-
- HEAT TRANSFER
+ MULTIVAR CALCULUS
 
 3.0
 
@@ -804,27 +702,25 @@ GRADE
 
 	
 CA
-3.0
+21.0
 
 CG
-3.0
+21.0
 
 GPA
-2.00
+2.83
 
 CAX
-154.0
+124.0
 
 CGX
-147.0
+126.0
 
 GPAX
-2.47
+2.84
 
 GPX
-380.50
-
-ขอจบการศึกษา
+352.00
 
  
 
