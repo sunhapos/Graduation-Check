@@ -1,0 +1,149 @@
+============================================================
+	 Report for 6130999921		Program = AE61
+============================================================
+   Required Group
+
+	Group = AE Basic Required        	Credit Needed = 45	Credit Obtained = 42
+
+	2304103 GEN PHYS I            3	Pass	   	cur-sem =  2	pre=- 	co=- 
+	2304104 GEN PHYS II           3	Pass	   	cur-sem =  2	pre=- 	co=- 
+	2304183 GEN PHYS LAB I        1	Pass	   	cur-sem =  2	pre=- 	co=- 
+	2304184 GEN PHYS LAB II       1	Pass	   	cur-sem =  2	pre=- 	co=- 
+	2301107 CALCULUS I            3	Pass	   	cur-sem =  2	pre=- 	co=- 
+	2301108 CALCULUS II           3	Pass	   	cur-sem =  2	pre=ok 	co=- 
+	2302127 GEN CHEM              3	Pass	   	cur-sem =  2	pre=- 	co=- 
+	2302163 GEN CHEM LAB          1	Pass	   	cur-sem =  2	pre=- 	co=- 
+	2100111 EXPL ENG WORLD        3	Pass	   	cur-sem =  2	pre=- 	co=- 
+	5500111 EXP ENG I             3	Pass	   	cur-sem =  2	pre=- 	co=- 
+	5500112 EXP ENG II            3	Pass	   	cur-sem =  2	pre=ok 	co=- 
+	2104253 ENG STAT I            3	Pass	   	cur-sem =  4	pre=- 	co=- 
+	2301215 MULTIVAR CALCULUS     3	Pass	   	cur-sem =  4	pre=ok 	co=- 
+	2301216 LIN ALG DIFF EQ       3	Pass	   	cur-sem =  4	pre=ok 	co=- 
+	5500208 COM PRES SKIL         3	Pass	   	cur-sem =  5	pre=ok 	co=- 
+	2100311 ENG ESSENTIALS        3	Pass	   	cur-sem =  7	pre=- 	co=- 
+	5500308 TECH WRIT ENG         3	No  	   	cur-sem = 10	pre=- 	co=- 
+
+	Group = AE Specific Required     	Credit Needed = 78	Credit Obtained = 59
+
+	2103106 ENG DRAWING           3	Pass	   	cur-sem =  2	pre=- 	co=- 
+	2109101 ENG MATERIALS         3	Pass	   	cur-sem =  2	pre=- 	co=- 
+	2110101 COMP PROG             3	Pass	   	cur-sem =  2	pre=- 	co=- 
+	2103211 STATICS               3	Pass	   	cur-sem =  4	pre=- 	co=- 
+	2103242 THERMODYNAMICS I      3	Pass	   	cur-sem =  4	pre=- 	co=- 
+	2103232 MECH OF MAT           3	Pass	   	cur-sem =  5	pre=- 	co=ok 
+	2103351 FLUID MECHANICS I     3	Pass	   	cur-sem =  5	pre=ok 	co=- 
+	2104257 MFR PROC              3	Pass	   	cur-sem =  5	pre=- 	co=- 
+	2103212 DYNAMICS              3	Pass	   	cur-sem =  5	pre=- 	co=ok 
+	2103481 AUTOMOTIVE ENG        4	Pass	   	cur-sem =  5	pre=- 	co=- 
+	2104258 MFR PROC LAB          1	Pass	   	cur-sem =  5	pre=- 	co=ok 
+	2103322 MECH MACHINERY        3	Pass	   	cur-sem =  7	pre=ok 	co=- 
+	2103335 VEH STRUC ANAL I      3	Pass	   	cur-sem =  7	pre=ok 	co=- 
+	2103382 MECH VEHICLES I       3	Pass	   	cur-sem =  7	pre=ok 	co=- 
+	2103408 AUTOMOTIVE CONTROL    3	Pass	   	cur-sem =  7	pre=- 	co=- 
+	2103463 HEAT TRANSFER         3	Pass	   	cur-sem =  7	pre=ok 	co=- 
+	2102391 ELEC ENG I            3	No  	   	cur-sem =  8	pre=- 	co=- 
+	2102392 ELEC ENG LAB I        1	No  	   	cur-sem =  8	pre=- 	co=- 
+	2103320 DES MECH ELEM         3	Pass	   	cur-sem =  8	pre=ok 	co=- 
+	2103393 ME LAB NON ME         1	Pass	   	cur-sem =  8	pre=ok 	co=- 
+	2103433 INTRO MECH VIBRAT     3	No  	   	cur-sem =  8	pre=- 	co=- 
+	2103471 INTER COMB ENGIN      3	No  	   	cur-sem =  8	pre=- 	co=- 
+	2103482 MECH VEHICLES II      3	No  	   	cur-sem =  8	pre=- 	co=- 
+	2100301 ENG PRACTICE          2	S	   	cur-sem =  9	pre=- 	co=- 
+	2103399 or MECH ENG PRACTICE  2	No  	   	cur-sem =  9	pre=- 	co=- 
+	2103461 AE EXP LAB            2	Pass	   	cur-sem = 10	pre=- 	co=- 
+	2103483 AUTOMOTIVE SYS DES    3	No  	   	cur-sem = 10	pre=- 	co=- 
+	2103489 ME PRE PROJECT        1	Pass	   	cur-sem = 10	pre=- 	co=- 
+	2103555 ENGINE EMIS & CONT    3	Pass	   	cur-sem = 10	pre=- 	co=- 
+	2103499 MECH ENG PROJECT      3	No  	   	cur-sem = 11	pre=- 	co=- 
+	2100499 or ENGINEERING PROJ   3	No  	   	cur-sem = 11	pre=- 	co=- 
+
+   Elective Group
+
+	Group = Gen-Ed Humanity     		Credit Needed = 3	Credit Obtained = 3
+
+e0	0201211 MEDITAT LIFE DEV      3	Pass		Pas-sem = 4    [x]
+
+	Group = Gen-Ed Multi        		Credit Needed = 3	Credit Obtained = 3
+
+e1	3303191 CHEM DRUG DAILY       3	Pass		Pas-sem = 3    [x]
+
+	Group = Gen-Ed Sci and Math 		Credit Needed = 3	Credit Obtained = 3
+
+e2	2111330 MOD MAT PROP RAD (CANNOT COUNT FOR ENG!)3	Pass		Pas-sem = 4    [ ]
+e3	2308354 STRATEGY OF LIFE      3	Pass		Pas-sem = 2    [ ]
+e4	3742102 EXERCISE THERAPY      3	Pass		Pas-sem = 2    [x]
+
+	Group = Gen-Ed Social       		Credit Needed = 3	Credit Obtained = 3
+
+e5	5100101 POP/DEV               3	Pass		Pas-sem = 5    [x]
+
+	Group = AE Approve Electives		Credit Needed = 6	Credit Obtained = 6
+
+e6	2103381 SYS ANAL EV           3	Pass		Pas-sem = 10   [x]
+e7	2103479 AUTO MANU             3	Pass		Pas-sem = 10   [x]
+
+  Free Electives (only A-D is credited) 	Credit Needed = 6	Credit Obtained = 6
+
+f0	2308354 STRATEGY OF LIFE      3	Pass 		Pas-sem = 2    [x]
+f1	2111330 MOD MAT PROP RAD      3	Pass 		Pas-sem = 4    [x]
+
+   Unassigned
+
+
+Printing original transcript
+
+	2103106 ENG DRAWING           3	A   	sem =  1
+	2109101 ENG MATERIALS         3	B   	sem =  1
+	2301107 CALCULUS I            3	C+  	sem =  1
+	2302127 GEN CHEM              3	C   	sem =  1
+	2302163 GEN CHEM LAB          1	B+  	sem =  1
+	2304103 GEN PHYS I            3	C   	sem =  1
+	2304183 GEN PHYS LAB I        1	A   	sem =  1
+	5500111 EXP ENG I             3	B+  	sem =  1
+	2100111 EXPL ENG WORLD        3	A   	sem =  2
+	2110101 COMP PROG             3	D   	sem =  2
+	2301108 CALCULUS II           3	C   	sem =  2
+	2304104 GEN PHYS II           3	D   	sem =  2
+	2304184 GEN PHYS LAB II       1	B+  	sem =  2
+	2308354 STRATEGY OF LIFE      3	A   	sem =  2
+	3742102 EXERCISE THERAPY      3	A   	sem =  2
+	5500112 EXP ENG II            3	B   	sem =  2
+	3303191 CHEM DRUG DAILY       3	A   	sem =  3
+	3404117 INTRO TO LAW          3	   W	sem =  3
+	0201211 MEDITAT LIFE DEV      3	A   	sem =  4
+	2103211 STATICS               3	C   	sem =  4
+	2103242 THERMODYNAMICS        4	   W	sem =  4
+	2103481 AUTOMOTIVE ENG        4	A   	sem =  4
+	2111330 MOD MAT PROP RAD      3	A   	sem =  4
+	2301215 MULTIVAR CALCULUS     3	   W	sem =  4
+	2103212 DYNAMICS              3	D+  	sem =  5
+	2103232 MECH OF MAT           3	D+  	sem =  5
+	2104253 ENG STAT I            3	B+  	sem =  5
+	2104257 MFR PROC              3	B   	sem =  5
+	2104258 MFR PROC LAB          1	A   	sem =  5
+	2301216 LIN ALG DIFF EQ       3	   W	sem =  5
+	5100101 POP/DEV               3	A   	sem =  5
+	2100311 ENG ESSENTIALS        3	A   	sem =  7
+	2103242 THERMODYNAMICS        4	C+  	sem =  7
+	2103320 DES MECH ELEM         3	C   	sem =  7
+	2103322 MECH MACHINERY        3	   W	sem =  7
+	2103335 VEH STRUC ANAL I      3	C   	sem =  7
+	2103382 MECH VEHICLES I       3	B   	sem =  7
+	2103408 AUTOMOTIVE CONTROL    3	C   	sem =  7
+	2102391 ELEC ENG I            3	   W	sem =  8
+	2102392 ELEC ENG LAB I        1	   W	sem =  8
+	2103351 FLUID MECHANICS I     3	C   	sem =  8
+	2103393 ME LAB NON ME         1	C+  	sem =  8
+	2103471 INTER COMB ENGIN      3	   W	sem =  8
+	2103482 MECH VEHICLES II      3	   W	sem =  8
+	2301216 LIN ALG DIFF EQ       3	C   	sem =  8
+	5500208 COM PRES SKIL         3	C+  	sem =  8
+	2100301 ENG PRACTICE          2	   S	sem =  9
+	2103322 MECH MACHINERY        3	C   	sem = 10
+	2103381 SYS ANAL EV           3	B+  	sem = 10
+	2103461 AE EXP LAB            2	B   	sem = 10
+	2103463 HEAT TRANSFER         3	D+  	sem = 10
+	2103479 AUTO MANU             3	A   	sem = 10
+	2103489 ME PRE PROJECT        1	A   	sem = 10
+	2103555 ENGINE EMIS & CONT    3	B+  	sem = 10
+	2301215 MULTIVAR CALCULUS     3	C   	sem = 10

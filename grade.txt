@@ -1,0 +1,908 @@
+OFFICE OF THE REGISTRAR	
+CHULALONGKORN UNIVERSITY
+STUDENT GRADE REPORT	
+ณ วันที่  9 มกราคม 2564	
+					
+CR60
+
+Print All Grade Report
+		
+คณะวิศวกรรมศาสตร์
+
+MAJOR CODE 21031
+
+ชื่อ-นามสกุล นายปาณัสม์ สุอังคะ
+
+ 
+ภาคการศึกษาต้น    ปีการศึกษา 2559    เลขประจำตัวนิสิต  593 03239 21
+
+	
+COURSE NO
+
+COURSE TITLE
+
+CREDIT
+
+GRADE
+
+2100111
+
+ EXPL ENG WORLD
+
+3.0
+
+    A 
+
+2109101
+
+ ENG MATERIALS
+
+3.0
+
+    B 
+
+2110101
+
+ COMP PROG
+
+3.0
+
+    C+ 
+
+2301107
+
+ CALCULUS I
+
+3.0
+
+    C 
+
+2304103
+
+ GEN PHYS I
+
+3.0
+
+    B 
+
+2304183
+
+ GEN PHYS LAB I
+
+1.0
+
+    B+ 
+
+5500111
+
+ EXP ENG I
+
+3.0
+
+    C 
+
+	
+CA
+19.0
+
+CG
+19.0
+
+GPA
+2.79
+
+CAX
+19.0
+
+CGX
+19.0
+
+GPAX
+2.79
+
+GPX
+53.00
+
+ 
+ภาคการศึกษาปลาย    ปีการศึกษา 2559    เลขประจำตัวนิสิต  593 03239 21
+
+	
+COURSE NO
+
+COURSE TITLE
+
+CREDIT
+
+GRADE
+
+2103106
+
+ ENG DRAWING
+
+3.0
+
+    C+ 
+
+2301108
+
+ CALCULUS II
+
+3.0
+
+    C+ 
+
+2302127
+
+ GEN CHEM
+
+3.0
+
+    C 
+
+2302163
+
+ GEN CHEM LAB
+
+1.0
+
+    B 
+
+2304104
+
+ GEN PHYS II
+
+3.0
+
+    C+ 
+
+2304184
+
+ GEN PHYS LAB II
+
+1.0
+
+    B+ 
+
+2313213
+
+ DIGITAL PHOTO
+
+3.0
+
+    A 
+
+5500112
+
+ EXP ENG II
+
+3.0
+
+    C 
+
+	
+CA
+20.0
+
+CG
+20.0
+
+GPA
+2.65
+
+CAX
+39.0
+
+CGX
+39.0
+
+GPAX
+2.72
+
+GPX
+106.00
+
+ 
+ภาคการศึกษาต้น    ปีการศึกษา 2560    เลขประจำตัวนิสิต  593 03239 21
+
+	
+COURSE NO
+
+COURSE TITLE
+
+CREDIT
+
+GRADE
+
+2103211
+
+ STATICS
+
+3.0
+
+    C 
+
+2103241
+
+ THERMODYNAMICS I
+
+3.0
+
+    D+ 
+
+2204180
+
+ CIVILIZATION
+
+3.0
+
+    B 
+
+2301215
+
+ MULTIVAR CALCULUS
+
+3.0
+
+    D+ 
+
+2301216
+
+ LIN ALG DIFF EQ
+
+3.0
+
+    W 
+
+2603284
+
+ STAT PHYS SCIENCE
+
+3.0
+
+    B 
+
+	
+CA
+15.0
+
+CG
+15.0
+
+GPA
+2.20
+
+CAX
+54.0
+
+CGX
+54.0
+
+GPAX
+2.57
+
+GPX
+139.00
+
+ 
+ภาคการศึกษาปลาย    ปีการศึกษา 2560    เลขประจำตัวนิสิต  593 03239 21
+
+	
+COURSE NO
+
+COURSE TITLE
+
+CREDIT
+
+GRADE
+
+2103212
+
+ DYNAMICS
+
+3.0
+
+    F 
+
+2103231
+
+ MECH OF MAT I
+
+3.0
+
+    D 
+
+2103351
+
+ FLUID MECHANICS I
+
+3.0
+
+    D 
+
+2103481
+
+ AUTOMOTIVE ENG
+
+4.0
+
+    C+ 
+
+2104257
+
+ MFR PROC
+
+3.0
+
+    D+ 
+
+2104258
+
+ MFR PROC LAB
+
+1.0
+
+    A 
+
+2900151
+
+ FOUNDATION ECON
+
+3.0
+
+    C 
+
+	
+CA
+20.0
+
+CG
+17.0
+
+GPA
+1.53
+
+CAX
+74.0
+
+CGX
+71.0
+
+GPAX
+2.29
+
+GPX
+169.50
+
+ 
+ภาคการศึกษาต้น    ปีการศึกษา 2561    เลขประจำตัวนิสิต  593 03239 21
+
+	
+COURSE NO
+
+COURSE TITLE
+
+CREDIT
+
+GRADE
+
+0201210
+
+ MAT MGT GREEN
+
+3.0
+
+    A 
+
+2100311
+
+ ENG ESSENTIALS
+
+3.0
+
+    D+ 
+
+2102391
+
+ ELEC ENG I
+
+3.0
+
+    D+ 
+
+2103335
+
+ VEH STRUC ANAL I
+
+3.0
+
+    D+ 
+
+2103382
+
+ MECH VEHICLES I
+
+3.0
+
+    D+ 
+
+2103408
+
+ AUTOMOTIVE CONTROL
+
+3.0
+
+    D 
+
+2103463
+
+ HEAT TRANSFER
+
+3.0
+
+    F 
+
+3900113
+
+ SP ACT-JUDO
+
+1.0
+
+    A 
+
+	
+CA
+22.0
+
+CG
+19.0
+
+GPA
+1.68
+
+CAX
+96.0
+
+CGX
+90.0
+
+GPAX
+2.15
+
+GPX
+206.50
+
+ 
+ภาคการศึกษาปลาย    ปีการศึกษา 2561    เลขประจำตัวนิสิต  593 03239 21
+
+	
+COURSE NO
+
+COURSE TITLE
+
+CREDIT
+
+GRADE
+
+2102392
+
+ ELEC ENG LAB I
+
+1.0
+
+    C+ 
+
+2103212
+
+ DYNAMICS
+
+3.0
+
+    D+ 
+
+2103320
+
+ DES MECH ELEM
+
+3.0
+
+    F 
+
+2103393
+
+ ME LAB NON ME
+
+1.0
+
+    C 
+
+2103433
+
+ INTRO MECH VIBRAT
+
+3.0
+
+    D 
+
+2103471
+
+ INTER COMB ENGIN
+
+3.0
+
+    D 
+
+2103482
+
+ MECH VEHICLES II
+
+3.0
+
+    D 
+
+5500208
+
+ COM PRES SKIL
+
+3.0
+
+    C 
+
+	
+CA
+20.0
+
+CG
+17.0
+
+GPA
+1.20
+
+CAX
+116.0
+
+CGX
+107.0
+
+GPAX
+1.99
+
+GPX
+230.50
+
+วิทยาทัณฑ์ 1
+
+ 
+ภาคฤดูร้อน    ปีการศึกษา 2561    เลขประจำตัวนิสิต  593 03239 21
+
+	
+COURSE NO
+
+COURSE TITLE
+
+CREDIT
+
+GRADE
+
+2100301
+
+ ENG PRACTICE
+
+2.0
+
+    S 
+
+	
+ 
+ 
+ภาคการศึกษาต้น    ปีการศึกษา 2562    เลขประจำตัวนิสิต  593 03239 21
+
+	
+COURSE NO
+
+COURSE TITLE
+
+CREDIT
+
+GRADE
+
+0201107
+
+ LRN STUD ACT
+
+3.0
+
+    B+ 
+
+2103322
+
+ MECH MACHINERY
+
+3.0
+
+    F 
+
+2103461
+
+ AE EXP LAB
+
+2.0
+
+    C 
+
+2103463
+
+ HEAT TRANSFER
+
+3.0
+
+    D 
+
+2103479
+
+ AUTO MANU
+
+3.0
+
+    B 
+
+2103483
+
+ AUTOMOTIVE SYS DES
+
+3.0
+
+    W 
+
+2103489
+
+ ME PRE PROJECT
+
+1.0
+
+    D+ 
+
+2103555
+
+ ENGINE EMIS & CONT
+
+3.0
+
+    F 
+
+	
+CA
+18.0
+
+CG
+12.0
+
+GPA
+1.56
+
+CAX
+134.0
+
+CGX
+121.0
+
+GPAX
+1.93
+
+GPX
+258.50
+
+วิทยาทัณฑ์ 2
+
+ 
+ภาคการศึกษาปลาย    ปีการศึกษา 2562    เลขประจำตัวนิสิต  593 03239 21
+
+	
+COURSE NO
+
+COURSE TITLE
+
+CREDIT
+
+GRADE
+
+2103320
+
+ DES MECH ELEM
+
+3.0
+
+    C 
+
+2103472
+
+ POWER PLANT ENG
+
+3.0
+
+    C 
+
+2103499
+
+ MECH ENG PROJECT
+
+3.0
+
+    D 
+
+2103555
+
+ ENGINE EMIS & CONT
+
+3.0
+
+    B+ 
+
+2301216
+
+ LIN ALG DIFF EQ
+
+3.0
+
+    F 
+
+3401124
+
+ INTRO IP LAW
+
+3.0
+
+    A 
+
+5500308
+
+ TECH WRIT ENG
+
+3.0
+
+    D+ 
+
+	
+CA
+21.0
+
+CG
+18.0
+
+GPA
+2.00
+
+CAX
+155.0
+
+CGX
+139.0
+
+GPAX
+1.94
+
+GPX
+300.50
+
+วิทยาทัณฑ์ 3
+
+ 
+ภาคฤดูร้อน    ปีการศึกษา 2562    เลขประจำตัวนิสิต  593 03239 21
+
+	
+COURSE NO
+
+COURSE TITLE
+
+CREDIT
+
+GRADE
+
+2103483
+
+ AUTOMOTIVE SYS DES
+
+3.0
+
+    D+ 
+
+2301216
+
+ LIN ALG DIFF EQ
+
+3.0
+
+    C 
+
+	
+ 
+ 
+ภาคการศึกษาต้น    ปีการศึกษา 2563    เลขประจำตัวนิสิต  593 03239 21
+
+	
+COURSE NO
+
+COURSE TITLE
+
+CREDIT
+
+GRADE
+
+2103322
+
+ MECH MACHINERY
+
+3.0
+
+    D+ 
+
+2107220
+
+ ENV DAILY LIFE
+
+3.0
+
+    A 
+
+2223041
+
+ INT JP I
+
+3.0
+
+    B+ 
+
+2223243
+
+ JAPAN TODAY
+
+3.0
+
+    A 
+
+	
+CA
+12.0
+
+CG
+12.0
+
+GPA
+3.25
+
+CAX
+173.0
+
+CGX
+157.0
+
+GPAX
+2.02
+
+GPX
+350.00
+
+ขอจบการศึกษา
+
+ 
+
+				
+CA   = CREDIT ATTEMPTED
+
+CG   = CREDIT GRANTED
+
+GPA = GRADE POINT AVERAGE
+
+ 
+
+			
+CAX   = CUMULATIVE CA
+
+CGX   = CUMULATIVE CG
+
+GPAX = CUMULATIVE GPA
+
+	
+GPX = CUMULATIVE GP
+
+ 
+ 
